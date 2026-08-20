@@ -1,0 +1,57 @@
+{
+  "_readme": "Bu dosyanın güncel/canlı hali GitHub'da tutulur: https://raw.githubusercontent.com/wirftech-arch/ultrakaraoke-cdn/main/app-promo.json . Uygulama önce bu adresten çekmeyi dener, başarısız olursa (internet yok / repo henüz güncellenmemiş) assets içine gömülü bu kopyayı kullanır. Yeni uygulama eklemek için 'apps' dizisine yeni bir obje eklemeniz yeterli — kod değişikliği gerekmez.",
+
+  "min_interval_minutes": 30,
+  "first_show_delay_minutes": 1,
+
+  "apps": [
+    {
+      "id": "ultrachord_tuner",
+      "package_name": "com.UltraChord.Tuner",
+      "play_url": "https://play.google.com/store/apps/details?id=com.UltraChord.Tuner",
+      "icon_url": "https://play-lh.googleusercontent.com/jAyovneJLsQ1rxx0vIJSPagWUS-JFrrJxkxsAkwfvwzu4putkrDMzCgKdvbbfFk2hsAzNF1kAfAbsVK-glx2ZP0=w512-h512",
+      "title": {
+        "default": "UltraChord Chord Finder Tuner",
+        "tr": "UltraChord Akor Bulucu ve Akort Aleti",
+        "en": "UltraChord Chord Finder Tuner"
+      },
+      "description": {
+        "default": "AI chords finder & song analyzer. Lyrics, tone, BPM detector, export PDF & Tuner",
+        "tr": "Yapay zeka destekli akor bulucu ve şarkı analiz aracı. Sözler, ton, BPM tespiti, PDF olarak dışa aktarma ve gitar akort aleti.",
+        "en": "AI chords finder & song analyzer. Lyrics, tone, BPM detector, export PDF & Tuner"
+      }
+    },
+    {
+      "id": "ultratool_audio_editor",
+      "package_name": "com.ultratool",
+      "play_url": "https://play.google.com/store/apps/details?id=com.ultratool",
+      "icon_url": "https://play-lh.googleusercontent.com/VUw9JOhYjTKc0IfSXZaceed2fMzw0ADw4JWkB67CnU5NAfLd7VgOtUJiWbwSFdm0yfkMQBuRPanIgoRjjnqF=w512-h512",
+      "title": {
+        "default": "U Tool Audio Music Editor",
+        "tr": "U Tool Ses ve Müzik Düzenleyici",
+        "en": "U Tool Audio Music Editor"
+      },
+      "description": {
+        "default": "Music, Audio, Song files convert, cut, merge & join — easy, fast, offline tool",
+        "tr": "Müzik ve ses dosyalarını dönüştür, kes, birleştir — hızlı, kolay ve tamamen çevrimdışı çalışan araç.",
+        "en": "Music, Audio, Song files convert, cut, merge & join — easy, fast, offline tool"
+      }
+    },
+    {
+      "id": "uvp_video_player",
+      "package_name": "com.Ultravideo4k",
+      "play_url": "https://play.google.com/store/apps/details?id=com.Ultravideo4k",
+      "icon_url": "",
+      "title": {
+        "default": "UVP Video Player TV Cast Dlna",
+        "tr": "UVP Video Oynatıcı - TV Cast Dlna",
+        "en": "UVP Video Player TV Cast Dlna"
+      },
+      "description": {
+        "default": "Play every video format and cast to your TV over DLNA — fast, simple, all-in-one video player.",
+        "tr": "Tüm video formatlarını oynat, DLNA ile TV'ye yansıt — hızlı, basit, hepsi bir arada video oynatıcı.",
+        "en": "Play every video format and cast to your TV over DLNA — fast, simple, all-in-one video player."
+      }
+    }
+  ]
+}
