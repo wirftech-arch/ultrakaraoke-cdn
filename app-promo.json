@@ -6,6 +6,22 @@
 
   "apps": [
     {
+      "id": "ultramp3_music_player",
+      "package_name": "com.ultramp3.app",
+      "play_url": "https://play.google.com/store/apps/details?id=com.ultramp3.app",
+      "icon_url": "https://play-lh.googleusercontent.com/9nQaHADmdP5oQEQ3vv-zHGovXQ-1Gkfk2nZUe5YlfmEe3S3vV1b5oF_T9ep8wzw9jgdZ1kqw8HLKAeAOr0MH=w512-h512",
+      "title": {
+        "default": "Ultra Mp3 Music Player",
+        "tr": "Ultra Mp3 Müzik Oynatıcı",
+        "en": "Ultra Mp3 Music Player"
+      },
+      "description": {
+        "default": "Music player, MP3 cutter, merger, converter & downloader — all in one offline app.",
+        "tr": "Müzik oynatıcı, MP3 kesici, birleştirici, dönüştürücü ve indirici — hepsi bir arada çevrimdışı uygulama.",
+        "en": "Music player, MP3 cutter, merger, converter & downloader — all in one offline app."
+      }
+    },
+    {
       "id": "ultrachord_tuner",
       "package_name": "com.UltraChord.Tuner",
       "play_url": "https://play.google.com/store/apps/details?id=com.UltraChord.Tuner",
