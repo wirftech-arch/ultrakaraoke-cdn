@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lanbro",
+    "sha256_cert_fingerprints": [
+      "09:69:12:F1:D2:FB:ED:D8:D2:6D:B1:A2:FD:12:4A:0B:64:79:90:1A:DF:26:53:BD:48:D4:29:3A:EB:0D:B1:10"
+    ]
+  }
+}]
